@@ -13877,24 +13877,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kosar\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\marwa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kosar\\Documents\\GitHub\\umbraco\\UmbracoPage\\UmbracoPage.csproj",
+      "projectUniqueName": "C:\\Users\\marwa\\Documents\\GitHub\\umbraco\\UmbracoPage\\UmbracoPage.csproj",
       "projectName": "UmbracoPage",
-      "projectPath": "C:\\Users\\Kosar\\Documents\\GitHub\\umbraco\\UmbracoPage\\UmbracoPage.csproj",
-      "packagesPath": "C:\\Users\\Kosar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kosar\\Documents\\GitHub\\umbraco\\UmbracoPage\\obj\\",
+      "projectPath": "C:\\Users\\marwa\\Documents\\GitHub\\umbraco\\UmbracoPage\\UmbracoPage.csproj",
+      "packagesPath": "C:\\Users\\marwa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marwa\\Documents\\GitHub\\umbraco\\UmbracoPage\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Kosar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\marwa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13951,7 +13946,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
